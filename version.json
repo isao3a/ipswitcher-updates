@@ -1,7 +1,7 @@
 {
-  "schemaVersion": 1,
-  "version": "1.0.9.0",
-  "releasedAt": "2026-08-12",
-  "notes": "切断中の固定IPブロック拡大 + 画面外復帰 + 診断ログ",
-  "downloadPage": ""
+    "schemaVersion":  1,
+    "version":  "1.0.10.0",
+    "releasedAt":  "2026-08-12",
+    "notes":  "プロバイダー名表示・NIC の表示切替・更新通知を追加",
+    "downloadPage":  ""
 }
