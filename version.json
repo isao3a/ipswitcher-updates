@@ -1,0 +1,7 @@
+{
+  "schemaVersion": 1,
+  "version": "1.0.9.0",
+  "releasedAt": "2026-08-12",
+  "notes": "切断中の固定IPブロック拡大 + 画面外復帰 + 診断ログ",
+  "downloadPage": ""
+}
